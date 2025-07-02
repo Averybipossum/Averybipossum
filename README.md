@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bipossum
-- 👀 I’m interested in cryptography and hacking
-- 🌱 I’m currently learning hacking
-- 💞️ I’m looking to collaborate on projects that could enhance my knowledge on cybersec
+- 👀 I’m interested in cryptography, hacking and developing
+- 🌱 I’m currently learning a bit of everything
+- 💞️ I’m looking to collaborate on projects that could enhance my knowledge on cybersec, and development
 - 😄 Pronouns: he/him
 
 <!---
